@@ -57,6 +57,7 @@
       "list": [
         "exponential-moving-average",
         "is-even",
+        "is-odd",
         "sma"
       ]
     },
