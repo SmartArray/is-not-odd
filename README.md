@@ -1,4 +1,4 @@
-# is-odd [![NPM version](https://img.shields.io/npm/v/is-odd.svg?style=flat)](https://www.npmjs.com/package/is-odd) [![NPM monthly downloads](https://img.shields.io/npm/dm/is-odd.svg?style=flat)](https://npmjs.org/package/is-odd) [![NPM total downloads](https://img.shields.io/npm/dt/is-odd.svg?style=flat)](https://npmjs.org/package/is-odd) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/is-odd.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/is-odd)
+# is-not-odd [![NPM version](https://img.shields.io/npm/v/is-not-odd.svg?style=flat)](https://www.npmjs.com/package/is-odd) [![NPM monthly downloads](https://img.shields.io/npm/dm/is-odd.svg?style=flat)](https://npmjs.org/package/is-odd) [![NPM total downloads](https://img.shields.io/npm/dt/is-odd.svg?style=flat)](https://npmjs.org/package/is-odd) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/is-odd.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/is-odd)
 
 > Returns true if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.
 
@@ -9,7 +9,7 @@ Please consider following this project's author, [Jon Schlinkert](https://github
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save is-odd
+$ npm install --save is-not-odd
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ $ npm install --save is-odd
 Works with strings or numbers.
 
 ```js
-const isOdd = require('is-odd');
+const isOdd = require('is-not-odd');
 
 console.log(isOdd('1')); //=> true
 console.log(isOdd('3')); //=> true
@@ -76,13 +76,18 @@ You might also be interested in these projects:
 | 1 | [Semigradsky](https://github.com/Semigradsky) |
 | 1 | [realityking](https://github.com/realityking) |
 
-### Author
+### Original Author
 
 **Jon Schlinkert**
 
 * [LinkedIn Profile](https://linkedin.com/in/jonschlinkert)
 * [GitHub Profile](https://github.com/jonschlinkert)
 * [Twitter Profile](https://twitter.com/jonschlinkert)
+
+### Author
+
+** Yoshi Jäger **
+* [GitHub Profile](https://github.com/YoshiJaeger)
 
 ### License
 
