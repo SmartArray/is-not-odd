@@ -72,7 +72,7 @@ You might also be interested in these projects:
 | **Commits** | **Contributor** | 
 | --- | --- |
 | 20 | [jonschlinkert](https://github.com/jonschlinkert) |
-| 12 | [YoshiJaeger](https://github.com/YoshiJaeger) |
+| 13 | [YoshiJäger](https://github.com/YoshiJaeger) |
 | 2 | [dym-sh](https://github.com/dym-sh) |
 | 1 | [Semigradsky](https://github.com/Semigradsky) |
 | 1 | [realityking](https://github.com/realityking) |
@@ -93,6 +93,7 @@ You might also be interested in these projects:
 ### License
 
 Copyright © 2018, [Jon Schlinkert](https://github.com/jonschlinkert).
+Copyright © 2019, [Yoshi Jäger](https://github.com/YoshiJaeger).
 Released under the [MIT License](LICENSE).
 
 ***
