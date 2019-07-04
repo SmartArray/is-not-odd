@@ -17,13 +17,13 @@ $ npm install --save is-not-odd
 Works with strings or numbers.
 
 ```js
-const isOdd = require('is-not-odd');
+const isNotOdd = require('is-not-odd');
 
-console.log(isOdd('1')); //=> true
-console.log(isOdd('3')); //=> true
+console.log(isNotOdd('1')); //=> !true
+console.log(isNotOdd('3')); //=> !true
 
-console.log(isOdd(0)); //=> false
-console.log(isOdd(2)); //=> false
+console.log(isNotOdd(0)); //=> !false
+console.log(isNotOdd(2)); //=> !false
 ```
 
 ## About
@@ -72,7 +72,7 @@ You might also be interested in these projects:
 | **Commits** | **Contributor** | 
 | --- | --- |
 | 20 | [jonschlinkert](https://github.com/jonschlinkert) |
-| 11 | [YoshiJaeger](https://github.com/YoshiJaeger) |
+| 12 | [YoshiJaeger](https://github.com/YoshiJaeger) |
 | 2 | [dym-sh](https://github.com/dym-sh) |
 | 1 | [Semigradsky](https://github.com/Semigradsky) |
 | 1 | [realityking](https://github.com/realityking) |
