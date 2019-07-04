@@ -2,7 +2,7 @@
 
 > Returns true if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.
 
-Please consider following this project's author, [Jon Schlinkert](https://github.com/jonschlinkert), and consider starring the project to show your :heart: and support.
+Please consider following this project's author, [Yoshi Jaeger](https://github.com/YoshiJaeger), and consider starring the project to show your :heart: and support.
 
 ## Install
 
